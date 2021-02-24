@@ -19,7 +19,7 @@ DEVELOPER
 
 I work in [Oncorobot team](http://www.oncorobot.ru/#rec248145574)
 
-I work in Software Development team in [CNII RTC](https://rtc.ru/en/) 
+I work in Software Development team in [CNII RTC](https://rtc.ru/en/#main-screen-slider2) 
 
 ### Skills ...
 
