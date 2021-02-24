@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**makaryb/makaryb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Lisp
+(defun say-hello ()
+    (print "Please type your name:")
+    (let ((name (read)))
+        (print "Nice to meet you, ")
+        (print name)))
+```
 
-Here are some ideas to get you started:
+### More info about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Lisp
+[1]> (cadadr '((doctor manager sailor) (servant developer salesman) scientist))
+DEVELOPER
+```
+
+### Working ...
+
+I work in [Oncorobot team](http://www.oncorobot.ru/#rec248145574)
+
+I work in Software Development team in [CNII RTC](https://rtc.ru/en/) 
+
+### Skills ...
+
+Android Development Kotlin (+DJI SDK, ROS-android), Qt+QML for embedded devices, Squish UI-testing. Gitlab DevOps. Docker
+
+### Interested in ...
+
+Android dev. new features (Jetpack Compose etc.), Android native development. DevOps - containerization, cluster administration, pipelines, etc. Common Lisp. UNIX programming
