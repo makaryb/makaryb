@@ -27,4 +27,4 @@ Android Development Kotlin (+DJI SDK, ROS-android), Qt+QML for embedded devices,
 
 ### Interested in ...
 
-Android dev. new features (Jetpack Compose etc.), Android native development. DevOps - containerization, cluster administration, pipelines, etc. Common Lisp. UNIX programming
+Android dev. new features (Jetpack Compose etc.), Android native development. DevOps - containerization, cluster administration, pipelines, etc. Common Lisp. UNIX programming. Big Data analytics
