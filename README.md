@@ -11,6 +11,6 @@
 ### Stats
 
 <div>
-    <img align="left" height="220em" alt="Makary's github stats" src="https://github-readme-stats.vercel.app/api?username=makaryb&theme=dracula&show_icons=true&count_private=true" />
-    <img align="right" height="220em" alt="Makary's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaryb&theme=dracula" />
+    <img align="left" height="215em" alt="Makary's github stats" src="https://github-readme-stats.vercel.app/api?username=makaryb&theme=dracula&show_icons=true&count_private=true" />
+    <img align="right" height="215em" alt="Makary's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaryb&theme=dracula" />
 </div>
